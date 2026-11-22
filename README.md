@@ -26,7 +26,7 @@ O PrismaVHS é um sistema de gerenciamento via terminal desenvolvido em Python p
 
 2. Classificação Indicativa: Bloqueia automaticamente a locação caso a idade do cliente seja inferior à classificação etária do filme (Livre, 10, 12, 14, 16 ou 18 anos).
 
-3.Limite Simultâneo: Cada cliente pode manter no máximo 3 filmes alugados ao mesmo tempo.
+3. Limite Simultâneo: Cada cliente pode manter no máximo 3 filmes alugados ao mesmo tempo.
 
 4. Desconto Combo: Clientes que já possuem um filme alugado ganham 15% de desconto ao alugar títulos adicionais.
 
